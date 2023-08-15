@@ -14,5 +14,4 @@ frequencies and fundamental frequency
 
 **Explanations for each point:**
 
-(a) Please refer the points highlighted in "comp-assn1A-2022.pdf" for questions and "213070003_A01.ipynb" for these points. Question 4 in the ipynb file contains the
-implementation for synthesis of vowel sounds using three formant resonator and implemented linear constant coefficient difference equation
+(a) Please refer the points highlighted in "comp-assn1A-2022.pdf" for questions and "213070003_A01.ipynb" for these points. Question 4 (a), (b) and (c) in the ipynb file contains the implementation for synthesis of vowel sounds using three formant resonator and implemented linear constant coefficient difference equation.
