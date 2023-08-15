@@ -6,7 +6,7 @@
 
 **Resume points:**
 
-Signal Synthesis and Analysis based on Source Filter Model | Speech Processing
+**Signal Synthesis and Analysis based on Source Filter Model** | Speech Processing
 
 Instructor: Prof. Preeti Rao, Electrical Engineering, IIT Bombay | Python (Aug’22 - Sep’22)
 
